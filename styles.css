@@ -6,23 +6,23 @@ body {
 
 h1 {
   font-size: 7rem;
-  color: #DA0463;
+  color: yellow;
   font-family: 'Forum', cursive;
   padding-top: 50px;
-  text-shadow: 3px 0 white;
+  
 
 
 
 }
 
 footer {
-  color: black;
+  color: yellow;
   font-family: sans-serif;
   font-weight: bold;
   
 }
 
-.f {
+.w {
   background-image: url(images/tom1.png);
 
 }

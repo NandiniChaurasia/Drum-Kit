@@ -1,12 +1,12 @@
 body {
   text-align: center;
-  background-image: url(images/canva12.png);
+  background-image: url(images/canvaf.jpeg);
   background-size: cover;
 }
 
 h1 {
   font-size: 7rem;
-  color: yellow;
+  color: white;
   font-family: 'Forum', cursive;
   padding-top: 50px;
   
@@ -16,7 +16,7 @@ h1 {
 }
 
 footer {
-  color: yellow;
+  color: white;
   font-family: sans-serif;
   font-weight: bold;
   
